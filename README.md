@@ -10,3 +10,9 @@
 
 - [Wrapper 轻量包装类](./index.ts)
 - [Usage 常见用法](./index.test.ts)
+
+# Usage
+
+1. clone project `git clone https://github.com/iShawnWang/mathjs-playground`
+2. yarn install `cd mathjs-playground && yarn`
+3. `npm run jest`
